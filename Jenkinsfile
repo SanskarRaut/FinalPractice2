@@ -1,6 +1,6 @@
 pipeline{
 environment{
-reg = "sanskarraut/FinalPract"
+reg = "sanskarraut/finalpract"
 regCre = "docker_id"
 dockerImg = ""
 }
